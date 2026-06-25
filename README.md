@@ -462,6 +462,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
 <br />
+- <img src="https://github.com/CWNApps.png" height="14"/> [CWNApps/trust-gate-mcp](https://github.com/CWNApps/trust-gate-mcp?via=awesome-mcp-appcypher) - Post-quantum, tamper-evident receipts for consequential agent actions. Four tools — mint_action_receipt, mint_receipt_for_record_change, verify_receipt, audit_my_agent_inventory — signed Ed25519 + ML-DSA-65 (FIPS 204), verifiable offline from the certificate alone. Defaults to PQ-required verify mode (defends against Ed25519-only downgrade by requiring at least one verified PQ leg). Live on Smithery: [apps/cwn-trust-gate](https://smithery.ai/servers/apps/cwn-trust-gate?via=awesome-mcp-appcypher). Apache-2.0.
 
 ## 🔌 <a name="iot"></a>IoT
 
